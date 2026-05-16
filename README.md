@@ -1,6 +1,6 @@
 # 🎮 Asteroids Game – Design Brainstorming
 
-Este documento reúne as explorações de estética e direção visual para o projeto de recriação do clássico **Asteroids**, do Atari, reimaginado para a web com visual moderno, mantendo a essência retrô.
+Este projeto reúne as explorações de estética e direção visual para o projeto de recriação do clássico **Asteroids**, do Atari, reimaginado para a web com visual moderno, mantendo a essência retrô.
 
 ---
 
